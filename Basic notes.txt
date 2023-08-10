@@ -1,0 +1,129 @@
+<link rel="stylesheet" type="text/css" href="./index.css"/>
+
+TO LINK CSS WITH HTML VS CODE
+
+
+BOOTSTRAP CODE TO KEEP IN BETWEEN HEADS
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous"/>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
+<script src="https://kit.fontawesome.com/afce916556.js" crossorigin="anonymous"></script>
+This is code to add icons that is downloaded from the fontawesome website
+
+
+   for the responsive devices with different viewports
+
+ <link href="css/bootstrap.min.css" rel="stylesheet"/> for bootstrap file to link with coding
+
+
+
+in JS to create a input checkbox dynamically we input tag and label tag
+and for linking the label with input we use [htmlFor] 
+
+setAttribute method is used to give attribute and value through dynamically
+
+python data types
+	integer
+	boolean
+	float
+	string
+	complex
+
+control statements	
+	conditional statements
+	looping statements
+	jumping statements
+	
+
+
+
+
+now i'm writing a code and using w mode using appendf+
+
+
+types of OOPS
+pillars of oops
+ class
+ object
+ inheritance
+ Encapsulation
+ Polymorpism
+ Data obstruction
+
+
+
+
+
+to create virtualenv use== py -3 -m venv{folder name}
+or python -m venv{folder name}
+or python -m virtualenv{folder name}== this is the best way to create a virtualenv
+
+steps==
+#python (check whether it is installed or not)
+#pip install virtualenv
+#python -m virtualenv (give some name)
+#cd (f.name)
+#cd Scripts
+#activate
+#cd..
+#pip install django (installing django)
+#django-admin startproject [name](for creating project in django)
+#cd projectname
+#python manage.py runserver [every time we should run the server]
+#we will get a http request number an IP address we will get to check whether it is installed or not
+
+                                                                                                                                             
+In Model.py it contains some essential fields
+they are 
+CharField()
+TextField()
+ImageField()
+DateTimeField() etc...
+these are the functions to create a different blog or something
+
+and to create a new user we use python manage.py createsuperuser
+
+admin.site.register(Blog) == is used to register in admin site 
+
+                                                                        
+                                    	              	                 
+PYTHON:
+ print statement
+ variables
+ data types
+ data structures
+ type conversions
+ control statements
+ loops
+ oops
+ file handling
+ error handling
+ web scrapping
+                                                                                       
+
+
+
+git config --global user.name "sampath13-12"
+git config --global user.email "vinayzarvis1312@gmail.com"
+
+
+
+git config --global user.name "YOUR_USERNAME"
+
+git config --global user.email "myemail@example.com"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
